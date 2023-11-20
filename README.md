@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muzaffar Aly</h1>
 <h3 align="center">A passionate Software Engineer From Pakistan</h3>
 <img align="right" alt="Software Engineer" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif"/>
